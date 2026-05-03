@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header className="header">
-      <p>React Playground</p>
+      <p className="header__title">React Playground</p>
       <ul>
         <a>Tools</a>
         <a>Game</a>

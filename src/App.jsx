@@ -4,6 +4,8 @@ import Header from './Header.jsx';
 import Hero from './Hero.jsx';
 import Card from './Card.jsx';
 import About from './About.jsx';
+import Portfolio from './Portfolio.jsx';
+import Journey from './Journey.jsx';
 import './App.css';
 
 function App() {
@@ -12,6 +14,9 @@ function App() {
       <Header />
       <Hero />
       <Card />
+      <About />
+      <Portfolio />
+      <Journey />
     </>
   );
 }
