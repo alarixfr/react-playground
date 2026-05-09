@@ -100,7 +100,11 @@ code {
 }
 
 section {
+<<<<<<< HEAD
     margin-bottom: 0.4rem;
+=======
+  margin-bottom: 1rem;
+>>>>>>> fb3c550b997e377dc176bd0de942d67de84b92cd
 }
 
 .header {
@@ -109,6 +113,11 @@ section {
     justify-content: space-between;
     background: rgba(0, 0, 130, 0.6);
     padding: 0.2rem 0.4rem;
+}
+
+.header__title {
+  color: white;
+  font-weight: bold;
 }
 
 .header ul {
@@ -134,11 +143,34 @@ section {
     flex-direction: column;
 }
 
+.hero h1 {
+  font-size: 2.4rem;
+}
+
 .card {
+<<<<<<< HEAD
     border: 5px solid black;
     margin: 0rem 1rem;
     padding: 0.4rem 0.2rem;
     border-radius: 6px;
+=======
+  border: 5px solid black;
+  margin: 0rem 1rem;
+  padding: 0.8rem 0.2rem;
+  border-radius: 6px;
+>>>>>>> fb3c550b997e377dc176bd0de942d67de84b92cd
+}
+
+.card h2 {
+  font-size: 2.1rem;
+  margin-bottom: 2rem;
+}
+
+.card__name {
+  font-size: 2rem;
+  margin-top: 1rem;
+  color: white;
+  margin-bottom: 1rem;
 }
 
 .counter__button {
@@ -147,4 +179,44 @@ section {
     padding: 1rem 1.4rem;
     border-radius: 6px;
     background: rgba(0, 70, 60, 0.8);
+}
+
+.card--section {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.useless__button {
+  margin: 0rem 2rem;
+  font-size: 1.4rem;
+}
+
+.portfolio__project {
+  width: 90%;
+}
+
+.portfolio__project img {
+  width: 100%;
+}
+
+.action__button {
+  padding: 0.4rem 0.8rem;
+  margin: 0.2rem 0.6rem;
+  font-size: 1.1rem;
+  background: rgba(20, 30, 100, 0.8);
+  border: 2px solid black;
+}
+
+.journey__list {
+  font-size: 1.1rem;
+  padding: 1rem;
+  list-style-type: '-';
+}
+
+.journey__list li {
+  padding-left: 1rem;
 }
