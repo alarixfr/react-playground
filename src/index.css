@@ -210,3 +210,13 @@ section {
   background: rgba(20, 30, 100, 0.8);
   border: 2px solid black;
 }
+
+.journey__list {
+  font-size: 1.1rem;
+  padding: 1rem;
+  list-style-type: '-';
+}
+
+.journey__list li {
+  padding-left: 1rem;
+}

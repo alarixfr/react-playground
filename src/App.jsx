@@ -6,6 +6,7 @@ import Card from './Card.jsx';
 import About from './About.jsx';
 import Portfolio from './Portfolio.jsx';
 import Journey from './Journey.jsx';
+import Props from './Props.jsx';
 import './App.css';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <About />
       <Portfolio />
       <Journey />
+      <Props />
     </>
   );
 }
