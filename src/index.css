@@ -107,6 +107,12 @@ section {
 >>>>>>> fb3c550b997e377dc176bd0de942d67de84b92cd
 }
 
+input {
+  border: 1px solid black;
+  padding: 0.5rem 0.4rem;
+  background: rgba(255, 255, 255, 0.8);
+}
+
 .header {
     display: flex;
     align-items: center;
