@@ -8,9 +8,10 @@ function Journey() {
         <li>Commit #3 - c709404 learned more uses of components</li>
         <li>Commit #4 - fb3c550 added journal</li>
         <li>Commit #5 - 7247b5b consistent dark theme</li>
-        <li>Commit #6 - consistent dark theme style</li>
+        <li>Commit #6 - 93259c6 consistent dark theme style</li>
         <li>Commit #7 - deaf467 learned props</li>
-        <li>Commit #8 - 0 learned advanced usestate</li>
+        <li>Commit #8 - 44a18f0 learned advanced usestate</li>
+        <li>Commit #9 - 0 learned useeffect</li>
       </ol>
     </section>
   );
