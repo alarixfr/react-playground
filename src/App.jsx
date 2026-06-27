@@ -8,7 +8,8 @@ import Portfolio from './Portfolio.jsx';
 import Journey from './Journey.jsx';
 import Props from './Props.jsx';
 import UseState from './UseState.jsx';
-import UseEffect from './UseEffect';
+import UseEffect from './UseEffect.jsx';
+import StateLifting from './StateLifting.jsx';
 import './App.css';
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
       <Props />
       <UseState />
       <UseEffect />
+      <StateLifting />
     </>
   );
 }
