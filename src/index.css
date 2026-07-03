@@ -100,11 +100,8 @@ code {
 }
 
 section {
-<<<<<<< HEAD
     margin-bottom: 0.4rem;
-=======
-  margin-bottom: 1rem;
->>>>>>> fb3c550b997e377dc176bd0de942d67de84b92cd
+    margin-bottom: 1rem;
 }
 
 input {
