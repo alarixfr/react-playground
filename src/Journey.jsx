@@ -12,7 +12,7 @@ function Journey() {
         <li>Commit #7 - deaf467 learned props</li>
         <li>Commit #8 - 44a18f0 learned advanced usestate</li>
         <li>Commit #9 - e478578 learned useeffect</li>
-        <li>Commit #10 - 0 learned state lifting</li>
+        <li>Commit #10 - a2f8129 learned state lifting</li>
       </ol>
     </section>
   );

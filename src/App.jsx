@@ -10,6 +10,7 @@ import Props from './Props.jsx';
 import UseState from './UseState.jsx';
 import UseEffect from './UseEffect.jsx';
 import StateLifting from './StateLifting.jsx';
+import Calculator from './Calculator.jsx';
 import './App.css';
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
       <UseState />
       <UseEffect />
       <StateLifting />
+      <Calculator />
     </>
   );
 }
