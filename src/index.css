@@ -151,17 +151,14 @@ input {
 }
 
 .card {
-<<<<<<< HEAD
-    border: 5px solid black;
-    margin: 0rem 1rem;
-    padding: 0.4rem 0.2rem;
-    border-radius: 6px;
-=======
+  border: 5px solid black;
+  margin: 0rem 1rem;
+  padding: 0.4rem 0.2rem;
+  border-radius: 6px;
   border: 5px solid black;
   margin: 0rem 1rem;
   padding: 0.8rem 0.2rem;
   border-radius: 6px;
->>>>>>> fb3c550b997e377dc176bd0de942d67de84b92cd
 }
 
 .card h2 {
