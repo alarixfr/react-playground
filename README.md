@@ -7,3 +7,8 @@ this website is intended to be as my experiment for learning react, this is one 
 the project uses Vite to speed up development, learned how to use useState, props, styling, etc.
 
 used multiple ai for debugging and learning resources.
+
+## HOW TO ACCESS THE WEBSITE
+simply go to https://reactplaygroundfr.vercel.app/
+
+this is the starting point for next bigggg project!
